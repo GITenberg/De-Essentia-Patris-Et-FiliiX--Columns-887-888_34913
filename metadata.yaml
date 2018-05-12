@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25705'
     url: http://www.gutenberg.org/2009/agents/25705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34913#De-Essentia-Patris-Et-FiliiX--Columns-887-888
 gutenberg_issued: '2011-01-11'
 gutenberg_type: Text
 identifiers:
