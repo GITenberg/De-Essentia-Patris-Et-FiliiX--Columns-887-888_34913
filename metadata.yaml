@@ -1,0 +1,30 @@
+_repo: De-Essentia-Patris-Et-FiliiX--Columns-887-888_34913
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Migne, J.-P. (Jacques-Paul)
+    aliases:
+    - Migne, Jacques-Paul
+    - Migne, Jacques Paul
+    birthdate: 1800
+    deathdate: 1875
+    gutenberg_agent_id: '25705'
+    url: http://www.gutenberg.org/2009/agents/25705
+description: ''
+gutenberg_issued: '2011-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34913'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity'
+- !lcc 'BT'
+title: "De Essentia Patris Et Filii\r\nPatrologiae Cursus Completus; Series Latini;\
+  \ Tomus X; Columns 887-888"
+url: http://www.gutenberg.org/ebooks/34913
